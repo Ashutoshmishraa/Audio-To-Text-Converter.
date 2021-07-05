@@ -1,2 +1,3 @@
-# Audio-To-Text-Converter.
-Audio To Text Convert the .wav Extension audio file to Text.
+# Audio-To-Text-Converter
+In This Project i'm using Python Flask web Framework.
+and in this It will convert .wav extension Audio file to Text File.
